@@ -10,7 +10,7 @@
     "description": "Google Calendar app for NW.js.",
     "version": "1.0",
     "window": {
-        "icon": "calendar-app.png",
+        "icon": "calendar.png",
         "toolbar": false,
         "frame": true,
         "width": 1366,
